@@ -1,0 +1,14 @@
+{
+    "python.analysis.extraPaths": [
+        "./src/hello_",
+        "./src/hello_",
+        "./src/hello_",
+        "./src/hello_",
+        "./src/hello_",
+        "./src/hello_",
+        "./src/hello_",
+        "./src/hello_",
+        "./src/hello_",
+        "./src/hello_"
+    ]
+}

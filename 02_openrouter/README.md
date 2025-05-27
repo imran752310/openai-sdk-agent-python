@@ -32,7 +32,7 @@ data = response.json()
 data['choices'][0]['message']['content']
 
 
-## Using OpenAI Agents SDK
+# Using OpenAI Agents SDK
 
 import asyncio
 from openai import AsyncOpenAI
